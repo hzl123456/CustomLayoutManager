@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 缩放图片控件支持宽高比设定 -->
+    <declare-styleable name="CustomImageView">
+        <attr name="ratio_width" format="integer" />
+        <attr name="ratio_height" format="integer" />
+    </declare-styleable>
+
+</resources>
